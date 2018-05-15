@@ -1,3 +1,9 @@
+-----------------------------------------------------------------------------------------
+-- splash screen.lua
+-- Created by: Valeria Veverita
+-- ICS2O
+-- Description: This is the splash screen that displays the animated company logo
+
 local composer = require( "composer" )
 
 --give the name to the scene

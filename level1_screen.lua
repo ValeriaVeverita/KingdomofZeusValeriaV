@@ -1,3 +1,9 @@
+-----------------------------------------------------------------------------------------
+-- level1_screen.lua
+-- Created by: Valeria Veverita
+-- ICS2O
+-- Description: This is the background of level 1
+
 local composer = require( "composer" )
 local widget = require( "widget")
 

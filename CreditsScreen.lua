@@ -1,3 +1,8 @@
+-----------------------------------------------------------------------------------------
+-- CreditsScreen.lua
+-- Created by: Valeria Veverita
+-- ICS2O
+-- Description: This is the credits screen of the game
 local composer = require( "composer" )
 
 local widget = require("widget")

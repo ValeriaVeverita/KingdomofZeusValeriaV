@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------
--- main.lua
+-- main_menu.lua
 -- Created by: Valeria Veverita
--- Date: May 10th, 2018
+-- ICS2O
 -- Description: This is the main menu, displaying the credits, instructions & play button
 
 local composer = require( "composer" )

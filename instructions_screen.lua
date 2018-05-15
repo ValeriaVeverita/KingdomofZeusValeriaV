@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------
--- main.lua
+-- instructions_screen.lua
 -- Created by: Valeria Veverita
--- Date: May 10th, 2018
+-- ICS2O
 -- Description: This is the instruction screen of the game
 
 local composer = require( "composer" )
